@@ -1,0 +1,8 @@
+{
+  "name": "Remix Number Merge Quest",
+  "description": "A polished 50-level number merging puzzle game with tactile animations, offline play, and progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
